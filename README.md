@@ -2,27 +2,28 @@
 
 ## About The Project
 
-YoursOnly is an AI-powered emotional companion designed to provide a safe, private, and judgment-free space for people who need someone to talk to.
+YoursOnly is an AI-powered emotional companion which we have designed to provide a safe, private, and judgment-free space for people who need someone to talk to.
+The main idea is to be with them like there people.
 
-In today's fast-paced digital world, many individuals—especially Gen Z—struggle with loneliness, stress, anxiety, emotional exhaustion, and the feeling of not being understood. While friends and family may not always be available, emotions do not follow a schedule.
+In today's digital world, many individuals and especially Gen Z—struggle with loneliness, stress, anxiety, emotional exhaustion, and the feeling of not being understood. While friends and family may not always be available or there is fear of sharing hamper the person inside only so to tackle such problem we introduce YoursOnly there companian.
 
-YoursOnly was created with a simple goal:
+YoursOnly was created with a simple goal and those are heart of our project:
 
-**To ensure that no one feels completely alone when they need support the most.**
+**1. To ensure that no one feels completely alone when they need support the most.**
 
-Rather than acting as a therapist or replacing human relationships, YoursOnly aims to be a supportive companion that listens, understands, remembers important conversations, and encourages healthier emotional well-being.
+Rather than acting as a therapist or replacing human relationships, YoursOnly aims to be a supportive companion that listens, understands, instead of judge, and encourages healthier emotional well-being.
 
 ---
 
 ## The Problem
 
-Millions of people experience:
+Millions of people experience this problems:
 
 * Emotional isolation
 * Anxiety and overthinking
-* Stress from studies, careers, and relationships
+* Stress from studies, careers, relationships and so more 
 * Difficulty expressing their feelings
-* Lack of a safe space to openly talk
+* Lack of a safe space to openly talk and sometimes no one to listen
 
 Many existing solutions are either too clinical, too robotic, or fail to provide meaningful emotional support.
 
