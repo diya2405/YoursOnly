@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "525317845350",
+    "project_id": "ai-assistant-3912e",
+    "storage_bucket": "ai-assistant-3912e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:525317845350:android:282c27abdc3b464fe018a7",
+        "android_client_info": {
+          "package_name": "com.example.ai_chat_generate_image_translatelanguage"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChPk3mLhJ04rtbJxk86xMHqlA3YPQ31a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
